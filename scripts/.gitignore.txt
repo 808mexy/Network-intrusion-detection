@@ -1,0 +1,15 @@
+# Ignore datasets and large files
+*.csv
+*.xlsx
+*.png
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore log and pickle files
+*.log
+*.pkl
